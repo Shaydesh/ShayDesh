@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ShayDesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shay deshner" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shay deshner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shay deshner" height="30" width="40" /></a>
-<a href="https://kaggle.com/shay deshner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shay deshner" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shay-d-7560b462/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shay deshner" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/shaydeshner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shay deshner" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
