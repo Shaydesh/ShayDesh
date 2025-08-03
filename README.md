@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shay Deshner</h1>
-<h3 align="center">Dad, Developer, and explorer of strange new worlds</h3>
+<h3 align="center">Dad, Developer, and forager of huckleberries</h3>
 
 - 🔭 I’m currently working on **Building a RAG application with node-llama-cpp**
 
