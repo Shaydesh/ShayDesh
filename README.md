@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TheKingJamesSystemBibleStudy.org**
 
-- 🌱 I’m currently learning **TypeScript, node.js, js.LangChain, ReactNative Expo, DoteNetNuke**
+- 🌱 I’m currently learning **TypeScript, React, js.LangChain, ReactNative Expo, DoteNetNuke**
 
 - 👯 I’m looking to collaborate on **Anything you think is fun**
 
