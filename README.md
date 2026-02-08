@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shay Deshner</h1>
 <h3 align="center">Dad, Developer, and Forager of Huckleberries</h3>
 
-- 🔭 I’m currently working on **TheKingJamesSystemBibleStudy.org**
+- 🔭 I’m currently working on **KingJamesSystemBibleStudy.org**
 
 - 🌱 I’m currently learning **TypeScript, React, js.LangChain, ReactNative Expo, DoteNetNuke**
 
